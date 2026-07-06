@@ -38,8 +38,9 @@ Installing claude code and codex in cursor IDE
 Both Claude Code and Codex are successfully installed and logged in inside Cursor. Repository cloned to cursor
 README.md written and done and changes committed and pushed to GitHub.
 
-attaching the ss of both extension installed on the cursor
-<img width="1348" height="820" alt="cursor ss" src="https://github.com/user-attachments/assets/e94bb135-fdee-42a1-82ed-74faa5fabd1c" />
+attaching the ss of both extension installed on the cursor and the read.md 
+<img width="1534" height="862" alt="cursor ss" src="https://github.com/user-attachments/assets/a78906e6-645b-402a-ad37-be1d53b25f4f" />
+
 
 
 
