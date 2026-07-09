@@ -1,0 +1,17 @@
+Here's an honest breakdown of my process and how it addresses each of your questions:Quality of chosen experts:
+I didn't just take the first Google results. My process was search using keyword combinations like "LinkedIn marketing" and "B2B SaaS"  to surface real
+people then manually verify each person's actual profile, their real posts, dates, and background before including them. I cross-checked details like 
+follower counts and whether their content was genuinely hands-on before adding anyone to the list. A few names I found through general search didn't 
+hold up on closer inspection (mixed unrelated content, unclear credentials) and I excluded them rather than adding to the list.
+
+Repository structure:
+Organized as planned — research/sources.md for the master list with annotations, research/linkedin-posts/ with one file per expert containing their 
+posts, dates, and links. I also used Link shorten tools instead of raw long URLs to keep everything clean and readable on GitHub, since I didn't have 
+access to a URL-shortening API — I did this manually, formatting each link by hand.Ability to work with APIs and technical tools:
+
+Important limitation to flag : LinkedIn does not offer a official public API for scraping post content, and it actively blocks automated/bot
+access to profile and post pages. This meant I couldn't collect LinkedIn data programmatically the way the original instructions suggested 
+for YouTube. Instead, I used a manual process: searching for each expert, reading their public posts directly, and using AI to help me 
+research, verify, and write up structured summaries of their background and content in my own words. For YouTube, most of the experts I selected 
+are LinkedIn-native creators without an active YouTube channel, so that data source wasn't applicable for most of them — a couple of exceptions 
+had channels but their primary content platform was clearly LinkedIn
