@@ -9,7 +9,8 @@ Organized as planned — research/sources.md for the master list with annotation
 posts, dates, and links. I also used Link shorten tools instead of raw long URLs to keep everything clean and readable on GitHub, since I didn't have 
 access to a URL-shortening API — I did this manually, formatting each link by hand.Ability to work with APIs and technical tools:
 
-Important limitation to flag : LinkedIn does not offer a official public API for scraping post content, and it actively blocks automated/bot
+Important limitation to flag : 
+LinkedIn does not offer a official public API for scraping post content, and it actively blocks automated/bot
 access to profile and post pages. This meant I couldn't collect LinkedIn data programmatically the way the original instructions suggested 
 for YouTube. Instead, I used a manual process: searching for each expert, reading their public posts directly, and using AI to help me 
 research, verify, and write up structured summaries of their background and content in my own words. For YouTube, most of the experts I selected 
