@@ -1,17 +1,17 @@
 ## Post 1 — [July 8, 2026]
-link: https://shorturl.at/UErgH
+link: https://tinyurl.com/2a5ncfkw
 
 ## Post 2 — [July 6, 2026]
-link: https://shorturl.at/r0e9m
+link: https://tinyurl.com/3xhp6epb
 
 
 ## Post 3 — [July 2, 2026]
-link: https://shorturl.at/r4TJD
+link: https://tinyurl.com/3bhaseu3
 
 
 ## Post 4 — [July 1, 2026]
-link: https://shorturl.at/wcBBK
+link: https://tinyurl.com/4pubres8
 
 
 ## Post 5 — [June 30, 2026]
-link: https://shorturl.at/TJS6A
+link: https://tinyurl.com/77ubj654
