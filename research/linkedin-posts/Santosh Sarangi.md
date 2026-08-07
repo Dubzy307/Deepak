@@ -1,5 +1,5 @@
 ## Post 1 — [July 7, 2026]
-link: https://tinyurl.com/mrxkwy47
+link: https://tinyurl.com/mss8x64x
 
 ## Post 2 — [July 5, 2026]
 link: https://tinyurl.com/mtbpwvpk
